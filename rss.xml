@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SuzyQ]]></title>
         <description><![CDATA[SuzyQ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/suzyq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Dec 2015 23:04:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Dec 2015 23:10:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suzyq/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b52346d2-d4fd-47e3-9bcb-29d012f910b6.jpg">]]></description>
-            <link>undefined77e493ef-5b21-48ff-94f8-2c06bebc313d/index.html</link>
+            <title><![CDATA[Good morning sunshine!]]></title>
+            <description><![CDATA[<article><h1>Good morning sunshine!</h1><p>Maine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/347f75bdf1871ceeb8e655f04b865110122093d4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/suzyq/77e493ef-5b21-48ff-94f8-2c06bebc313d/index.html</link>
             <guid isPermaLink="false">77e493ef-5b21-48ff-94f8-2c06bebc313d</guid>
-            <pubDate>Sat, 05 Dec 2015 23:04:19 GMT</pubDate>
+            <pubDate>Sat, 05 Dec 2015 23:10:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
