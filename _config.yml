@@ -1,0 +1,28 @@
+name: SuzyQ
+favicon: null
+layout_spectrum: 0.9169882317073643
+typography_spectrum: 0.03775682207196951
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0658940498251468
+  lightness: 0.9719308908097446
+  saturation: 0.9824786263052374
+  rhythmicContrast: 0.902379535138607
+purpose: []
